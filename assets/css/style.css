@@ -15,6 +15,14 @@ body {
     background-color: #3F87F5;
 }
 
+.fcc-footer-bg {
+    background-color: #0B0D17;
+}
+
+.fcc-border {
+    border: 2px solid #D5E5FB;
+}
+
 .fcc-nav-font {
     font-weight: 500;
 }
