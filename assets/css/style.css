@@ -95,4 +95,8 @@ body {
     .flex-sm-col-rev {
         flex-direction: column-reverse;
     }
+
+    body {
+        overflow-x: hidden;
+    }
 }
