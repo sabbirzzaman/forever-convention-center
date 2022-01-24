@@ -53,3 +53,25 @@ body {
 .fcc-rounded {
     border-radius: 26px;
 }
+
+@media (max-width: 576px) {
+    .fs-sm-logo {
+        font-size: 15px;
+    }
+
+    .h-sm-100 {
+        height: 500px;
+    }
+
+    .w-sm-auto {
+        width: auto !important;
+    }
+
+    .w-sm-75 {
+        width: 75%;
+    }
+
+    .flex-sm-col-rev {
+        flex-direction: column-reverse;
+    }
+}
