@@ -75,6 +75,10 @@ body {
     width: 85%;
 }
 
+.fcc-footer {
+    color: #D9DBE1;
+}
+
 @media (max-width: 576px) {
     .fs-sm-logo {
         font-size: 15px;
