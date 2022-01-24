@@ -40,6 +40,19 @@ body {
     color: #3F87F5;
 }
 
+.fcc-btn-hero {
+    background-color: #FFF;
+    color: #3F87F5;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: all .3s ease-in-out;
+}
+
+.fcc-btn-hero:hover {
+    background-color: #3F87F5;
+    color: #FFF;
+}
+
 .fcc-btn-plan {
     background-color: rgba(244, 150, 210, 0.1);
     border: 2px solid rgba(244, 150, 210, 0.1);
